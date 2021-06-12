@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/felipejoribeiro/meme_generator_react/static/css/main.d46c4a7d.chunk.css",
+    "main.js": "/felipejoribeiro/meme_generator_react/static/js/main.d29f5a54.chunk.js",
+    "main.js.map": "/felipejoribeiro/meme_generator_react/static/js/main.d29f5a54.chunk.js.map",
+    "runtime-main.js": "/felipejoribeiro/meme_generator_react/static/js/runtime-main.c6253955.js",
+    "runtime-main.js.map": "/felipejoribeiro/meme_generator_react/static/js/runtime-main.c6253955.js.map",
+    "static/js/2.12d722c8.chunk.js": "/felipejoribeiro/meme_generator_react/static/js/2.12d722c8.chunk.js",
+    "static/js/2.12d722c8.chunk.js.map": "/felipejoribeiro/meme_generator_react/static/js/2.12d722c8.chunk.js.map",
+    "static/js/3.bb5e030f.chunk.js": "/felipejoribeiro/meme_generator_react/static/js/3.bb5e030f.chunk.js",
+    "static/js/3.bb5e030f.chunk.js.map": "/felipejoribeiro/meme_generator_react/static/js/3.bb5e030f.chunk.js.map",
+    "index.html": "/felipejoribeiro/meme_generator_react/index.html",
+    "static/css/main.d46c4a7d.chunk.css.map": "/felipejoribeiro/meme_generator_react/static/css/main.d46c4a7d.chunk.css.map",
+    "static/js/2.12d722c8.chunk.js.LICENSE.txt": "/felipejoribeiro/meme_generator_react/static/js/2.12d722c8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c6253955.js",
+    "static/js/2.12d722c8.chunk.js",
+    "static/css/main.d46c4a7d.chunk.css",
+    "static/js/main.d29f5a54.chunk.js"
+  ]
+}
