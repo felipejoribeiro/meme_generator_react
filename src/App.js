@@ -1,14 +1,12 @@
-import './App.css';
+import React from 'react';
+import Header from './Header';
+import MemeGenerator from './MemeGenerator';
 
 function App() {
   return (
-
-    <div className="App">
-      <header className="App-header">
-        <h1>Meme generator</h1>
-        <p>Chose the text and let it go</p>
-
-      </header>
+    <div id="App-header">
+      <Header/>
+      <MemeGenerator/>
     </div>
   );
 }
